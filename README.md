@@ -1,8 +1,7 @@
 # Reinforcement Learning
-[//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/10624937/42135602-b0335606-7d12-11e8-8689-dd1cf9fa11a9.gif "Trained Agents"
-[image2]: https://user-images.githubusercontent.com/10624937/42386929-76f671f0-8106-11e8-9376-f17da2ae852e.png "Kernel"
+![alt text](https://github.com/piyushpathak03/Reinforcement-Learning/blob/master/Complete%20guide%20to%20Reinforcement%20Learning/reinforcement%20learning.gif)
+<br />
 
 Reinforcement Learning with Python will help you to master basic reinforcement learning algorithms to the advanced deep reinforcement learning algorithms. 
 From the basics to deep reinforcement learning, this repo provides easy-to-read code examples. One file for each algorithm.
