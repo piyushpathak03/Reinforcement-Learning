@@ -21,9 +21,9 @@ pip install -r requirements.txt
 
 ## Table of Contents
 
-### [1. Introduction to Reinforcement Learning](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/01.%20Introduction%20to%20Reinforcement%20Learning)
+### [1. Introduction to Reinforcement Learning](https://github.com/piyushpathak03/Reinforcement-Learning/tree/master/Complete%20guide%20to%20Reinforcement%20Learning/01.%20Introduction%20to%20Reinforcement%20Learning)
 
-* [1.1. What is Reinforcement Learning?](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/01.%20Introduction%20to%20Reinforcement%20Learning/1.1%20What%20is%20Reinforcement%20Learning.ipynb)
+* [1.1. What is Reinforcement Learning?](https://github.com/piyushpathak03/Reinforcement-Learning/blob/master/Complete%20guide%20to%20Reinforcement%20Learning/01.%20Introduction%20to%20Reinforcement%20Learning/1.1%20What%20is%20Reinforcement%20Learning.ipynb)
 * 1.2. Reinforcement Learning Cycle
 * 1.3. How RL differs from other ML Paradigms?
 * 1.4. Elements of Reinforcement Learning
